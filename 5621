@@ -1,7 +1,7 @@
 {
   "description": "Pixel Amigos is a fun and creative PFP collection of unique digital characters packed with personality and style. Each Amigo is built from hand-crafted traits and designs, making every NFT feel different and collectible. Collect your Amigo, flex your vibe, and join the Amigos community.",
   "external_url": "",
-  "image": "https://arweave.net/4oD2xeYp763i8GEm0z1SFJOcRSJ4OP2419wdkp50bHw",
+  "image": "https://arweave.net/fJ3XnVr6JvzbHx1rO5jOQLmLpLi0_6LxNdVkwGdqJOc",
   "name": "Pixel Amigos #5621",
   "attributes": [
     {
@@ -10,15 +10,27 @@
     },
     {
       "trait_type": "body",
-      "value": "devil_red"
+      "value": "laser"
     },
     {
-      "trait_type": "mask",
-      "value": "mask_joker_purple"
+      "trait_type": "mouth",
+      "value": "mouth_normal"
     },
     {
       "trait_type": "cloth",
-      "value": "shirt_hawai_green2"
+      "value": "jacket_big_striped_multicolor"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "eyes_left_track"
+    },
+    {
+      "trait_type": "hathelmet",
+      "value": "helmet_bike_yellow"
+    },
+    {
+      "trait_type": "smoke",
+      "value": "no_smoke"
     }
   ]
 }
